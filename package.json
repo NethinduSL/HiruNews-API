@@ -23,6 +23,7 @@
     "got": "^12.5.3",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2",
-    "spotifydl-x": "^0.3.0"
+    "spotifydl-x": "^0.3.0",
+    "express": "^4.19.2"
   }
 }
